@@ -106,7 +106,7 @@ const Hero: React.FC<HeroProps> = ({ onOpenQuiz }) => {
             {/* Main Product Image */}
             <div className="relative animate-float z-10 w-full h-auto lg:h-full rounded-2xl overflow-hidden shadow-2xl glass-card-dark border-0 p-4">
                <img 
-                 src="https://i.ibb.co/nM6vchb7/gemini-3-pro-image-preview-2k-nano-banana-pro-a-Instead-of-using-ran-1.png" 
+                 src="hhttps://i.ibb.co/bjZ5vZM4/Untitled-design-2026-01-05-T232941-392.png" 
                  alt="Premium Hemp Body Care Set" 
                  className="w-full h-auto lg:h-full object-cover object-center rounded-xl"
                />
